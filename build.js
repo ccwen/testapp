@@ -14822,7 +14822,7 @@ var main = React.createClass({displayName: 'main',
     } else { 
     return (
       React.createElement("div", {className: "main"}, 
-		"Main of testapp", "      ")
+		"Main of testapp, hello world", "      ")
       );
     }
   }
